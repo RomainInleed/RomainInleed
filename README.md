@@ -2,4 +2,4 @@
 
 ![Metrics](/github-metrics.svg)
 
-![Skyline](/metrics.plugin.skyline.svg)
+![Calendar](/metrics.plugin.calendar.full.svg)
